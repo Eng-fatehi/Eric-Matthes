@@ -12,5 +12,7 @@ for line in lines:
 birthday = input("Enter your birthday, in the form mmddyy: ") # input() function is used to get user input.
 if birthday in pi_string: # if statement is used to check if the birthday is in the first million digits of pi.
     print("Your birthday appears in the first million digits of pi!")
-else: # else statement is used if the birthday is not in the first million digits of pi.
+else: # else statement is used if the birthday is not in the first million digits of pi..
     print("Your birthday does not appear in the first million digits of pi.")
+
+    ''' Fatehi Abdo'''
