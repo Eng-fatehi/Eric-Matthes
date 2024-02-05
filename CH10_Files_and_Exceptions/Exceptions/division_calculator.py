@@ -1,4 +1,5 @@
-''' Python can't do this, so we get a traceback.'''
+''' Using try-except blocks'''
+# Python can't do this, so we get a traceback, so we go to use try-except blocks .
 try: 
     print(5/0)
 except ZeroDivisionError:
