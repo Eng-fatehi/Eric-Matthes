@@ -71,4 +71,3 @@ resulting in "Hello!" being printed to the console.
 
 """
 
-# Eng. Fatehi Abdo
